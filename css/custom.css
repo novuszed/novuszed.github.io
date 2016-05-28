@@ -281,6 +281,14 @@ font-size: 16px;
     -o-background-size:cover;
     background-size:cover;
 }
+#contact hr{
+    size:50px;
+    width:150px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    height:10px;
+    background-color:black;
+}
 #home{
 
     background-image: url(../images/coffee.jpg);
