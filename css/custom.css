@@ -8,6 +8,15 @@ html,body{
 .pad-section img{
     width:100%;
 }
+.fa {
+    display: inline-block;
+    font-family: FontAwesome;
+    font-style: normal;
+    font-weight: normal;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
 .avatar{
     background-color:white;
     width:250px;
@@ -21,7 +30,14 @@ html,body{
     cursor:default;
     margin:0 auto;
 }
-
+.gotosection{
+    font-size:40px;
+    cursor:pointer;
+    position:relative;
+    -moz-animation:bounce 2s infinite linear;
+    -webkit-animation:bounce 2s infinite linear;
+    -o-animation:bounce 2s infinite linear;
+}
 /*vertical-centered text*/
 .text-vcenter{
     display:table-cell;
