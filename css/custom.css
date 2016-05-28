@@ -202,6 +202,21 @@ font-size: 16px;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
 }
+.skill {
+    text-align: left!important;
+    margin-left: -40px;
+    margin-top: 40px;
+}
+.skill li {
+    list-style: none!important;
+}
+ul i{
+    text-align:center;
+}
+.multipleIcon{
+    text-align:center;
+
+}
 .avatar{
     background-color:white;
     width:250px;
