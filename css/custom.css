@@ -217,6 +217,19 @@ ul i{
     text-align:center;
 
 }
+.scroll-top {
+    background: none repeat scroll 0 0 #070707;
+    bottom: 0;
+    color: #fff;
+    display: none;
+    height: 50px;
+    line-height: 50px;
+    position: fixed;
+    right: 50px;
+    text-align: center;
+    width: 50px;
+    z-index: 9999;
+}
 .avatar{
     background-color:white;
     width:250px;
