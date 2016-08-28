@@ -25,7 +25,7 @@
 
             <div class="col-md-12">
 
-                <div class="avatar" style="background-image:url(./images/zihao.jpg);background-size:cover;background-position:40%,20%;">
+                <div class="avatar" id="2" style="background-image:url(./images/zihao.jpg);background-size:cover;background-position:40%,20%;">
 
                 </div>
 
@@ -76,7 +76,7 @@
 
                         </li>
                         <li>
-                            <a href="#contact">About</a>
+                            <a href="#contact">Contact</a>
 
                         </li>
                     </ul>
@@ -484,10 +484,13 @@ Team player
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
     <!-- Include all compiled plugins (below), or include individual files as needed -->
     <script src="js/bootstrap.min.js"></script>
-<a class="scroll-top" href="#" title="Scroll to top" style="display: inline;"><i class="fa fa-arrow-up"></i></a>    <!--
-    <script src="path/to/jquery/jquery.min.js"></script>
-    <script src="path/to/jquery.stellar.min.js"></script>
--->
+<a class="scroll-top" href="#" title="Scroll to top" style="display: inline;"><i class="fa fa-arrow-up"></i></a>
+<script>
+$(window).load(function () {
+    $("#2").append('<img src="images/zihao.jpg" alt="Second image">');
+    // and so on
+});
+/script>
     <script>
         $('div').on('shown.bs.collapse', function() {
             $(this).prev().find(".fa-plus").removeClass("fa-plus").addClass("fa-minus");
