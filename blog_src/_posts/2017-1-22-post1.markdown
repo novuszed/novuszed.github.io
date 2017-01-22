@@ -1,0 +1,25 @@
+---
+layout: post
+title:  "First week of classes"
+date:   2017-01-22 03:32:54 -0600
+categories: jekyll update
+---
+**What did you do this past week?**
+
+This past week was the beginning of the new semester. A lot of my time was spent on trying to figure out scheduling for my classes and trying to petition into the classes I wanted to. Unfortunately, after hours of constantly refreshing my waitlist page and the course schedule, I wasn't able to get into some of the honor classes I hoped to. Like a good student, I attended all my classes and I think this will be a good semester. Everything I'm learning seems to be very interesting and I'm excited to see what I will be able to pick up in my quantum mechanics class. Other than school, my roommates and I watched a lot of TV and went and explored various parts of North Austin.
+
+**What's in your way?**
+
+Trying to frantically see if I can do a late-add for a CS class I want to take. I should probably reorganize my desk and have a calendar that tracks my daily work and plan my weeks out ahead. There's some homework that was assigned for 2 of my classes so I should probably get on those to make sure I'm not behind in the beginning of the school year. 
+
+**What will you do next week?**
+
+Next week, I will try to finalize my course schedule and slowly settle into the semester. Then on Friday, I will drive to San Antonio and then to Houston to spend the weekend celebrating Chinese New Year with my parents.
+
+**What's my experience of the class?**
+
+So far, I find this class really engaging and insightful. It goes into so many tiny details of software engineering and helps describe a lot of tools that I think I will use in the future. While I have some experience with Python, I really enjoyed how we went over line by line of the syntax and some nuances of Python that I didn't look into before. The fact that the class feels like a conversation helps me retain the information better and keeps me more focused. 
+
+**What's my pick-of-the-week or tip-of-the-week?**
+
+Use Jekyll for your blogs! I discovered the power of Jekyll while creating this blog and realized how nice the static generator site came out. Jekyll seems to be very easy to use with minimum knowledge needed for the Ruby parts, high recommend anyone to read the documentation and try it on their own https://jekyllrb.com/.
