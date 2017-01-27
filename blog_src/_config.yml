@@ -15,11 +15,10 @@
 # in the templates via {{ site.myvariable }}.
 title: Zihao's Blog
 email: zihaozhu@utexas.edu
-description: > # this means to ignore newlines until "baseurl:"
-	This is Zihao's blog where he writes about nonesense about his week!
+#description: > # this means to ignore newlines until "baseurl:"
 baseurl: "/blog" # the subpath of your site, e.g. /blog
 url: "http://zihaozhu.me" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: None
+#twitter_username: None
 github_username:  Novuszed
 
 # Build settings
