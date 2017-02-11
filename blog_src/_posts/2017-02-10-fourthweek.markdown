@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Fourth week of classes"
-date:   2017-02-09 12:33:54 -0600
+date:   2017-02-09 3:02:54 -0600
 categories: jekyll update
 ---
 **What did you do this past week?**
