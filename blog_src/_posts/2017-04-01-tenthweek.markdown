@@ -24,7 +24,7 @@ No more python??? It seems like we have transitioned into learning more about da
 **What's my pick-of-the-week or tip-of-the-week?**
 Check out these cool reads!
 
-[Space X's success] (https://techcrunch.com/2017/03/31/crunch-report-spacex-successfully-re-launches-a-rocket/ "Space X's successful launching of rocket")
+[Space X's success](https://techcrunch.com/2017/03/31/crunch-report-spacex-successfully-re-launches-a-rocket/ "Space X's successful launching of rocket")
 
 [Cheap fast trades](https://techcrunch.com/2017/03/31/now-whos-the-rich/ "Robinhood's higher evaluation")
 
