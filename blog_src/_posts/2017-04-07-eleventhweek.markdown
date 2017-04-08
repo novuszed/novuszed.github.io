@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Math is fun"
-date:   2017-03-31 3:02:54 -0600
+date:   2017-04-06 3:02:54 -0600
 categories: jekyll update
 ---
 **What did you do this past week?**
