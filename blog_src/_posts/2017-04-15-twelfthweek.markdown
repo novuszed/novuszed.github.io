@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Math is fun"
+title:  "Almost there"
 date:   2017-04-14 3:02:54 -0600
 categories: jekyll update
 ---
