@@ -19,6 +19,85 @@ html,body{
     -o-background-size:cover;
     background-size:cover;
 
+}
+.gotosection{
+    font-size:40px;
+    cursor:pointer;
+    position:relative;
+    -moz-animation:bounce 2s infinite linear;
+    -webkit-animation:bounce 2s infinite linear;
+    -o-animation:bounce 2s infinite linear;
+}
+#about{
+    height:100%;
+    position:relative;
+    width:100%;
+    -webkit-background-size:cover;
+    -moz-background-size:cover;
+    -o-background-size:cover;
+    background-size:cover;
+}
+.main-nav {
+    width: 100%;
+    z-index: 10;
+}
+/*.navbar .navbar-nav > li > a{
+    color: white;
+    font-family: 'Ubuntu Mono', monospace;
+    font-size:18px;
+}
 
+.navbar .navbar-nav > li > a:hover, .navbar .navbar-nav > li > a:focus {
+    background-color: transparent;
+    color: #999999;
+}*/
+
+.newnav{
+    margin-bottom: 0;
+    border-color: transparent;
+    background-color: #000;
+    font-family: 'Ubuntu Mono', monospace;
+    text-transform: uppercase;
 
 }
+.newnav .nav li a {
+    -webkit-transition: background .2s ease-in-out;
+    -moz-transition: background .2s ease-in-out;
+    transition: background .2s ease-in-out;
+    font-weight: 400;
+    text-align: center;
+    letter-spacing: 1px;
+    color:white;
+}
+.newnav .nav li a:hover {
+    outline: 0;
+    color: #ccc;
+    background-color: transparent;
+}
+
+.newnav .navbar-header a{
+    -webkit-transition: background .2s ease-in-out;
+    -moz-transition: background .2s ease-in-out;
+    transition: background .2s ease-in-out;
+    font-weight: 400;
+    text-align: center;
+    letter-spacing: 1px;
+    color:white;
+}
+
+.newnav .nav li a:focus,
+.newnav .nav li a:active {
+    outline: 0;
+    background-color: transparent;
+}
+
+.newnav .nav li.active {
+    outline: 0;
+}
+
+.newnav .nav li.active a {
+    background-color: rgba(255, 255, 255, .3);
+}
+
+.newnav .nav li.active a:hover {
+    color: #fff;
